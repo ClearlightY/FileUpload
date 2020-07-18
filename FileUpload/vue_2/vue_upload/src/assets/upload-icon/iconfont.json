@@ -1,0 +1,23 @@
+{
+  "id": "1931647",
+  "name": "upload",
+  "font_family": "upload-iconfont",
+  "css_prefix_text": "upload-icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7746216",
+      "name": "el-hg-icon-upload",
+      "font_class": "el-hg-icon-upload",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "14681565",
+      "name": "icon-upload",
+      "font_class": "upload",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    }
+  ]
+}
